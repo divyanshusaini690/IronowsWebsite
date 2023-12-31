@@ -1,0 +1,232 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	 background-image: linear-gradient(to bottom, #00628b, #0e6890, #196e95, #227599, #2a7b9e, #3583a6, #3f8cad, #4994b5, #58a1c2, #67afcf, #75bddc, #84cbe9);
+}
+
+.logo{
+   
+    display: flex;
+    flex-direction: row;
+
+    
+}
+.logo img{
+    height: auto;
+	width: 100px;
+    padding-bottom: 18px;
+    
+}
+
+.logo svg{
+padding-right:80px;
+	height: 70px;
+	width: 300px;
+}
+
+.nav-link{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+.navbar-toggler{
+	border: none;
+    font-size: 40px;
+   
+
+}
+.navbar-toggler:focus{
+	box-shadow: none;
+}
+
+.container p{
+        
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.container-3 h1{
+    
+    margin-top: 8%;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+.container-4 h2 {
+    margin-top: 8%;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.container-4 p{
+        
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+  footer{
+        background-color: #00628B;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+    }
+   
+   
+    
+
+ 
+    .logo2{
+      
+        display: flex;
+        flex-direction: row;
+    
+        height: auto;
+        width: auto;
+    }
+    
+    .logo2 img{
+        height: auto;
+        width: 100px;
+        padding-bottom: 18px;
+        
+    }
+    
+    .logo2 svg{
+    
+        padding-right:80px;
+        height: 70px;
+        width: 300px;
+        
+    }
+    
+    .links{
+          color: white;
+          font-size: 15px;
+    
+    }
+    
+    .links li{
+         
+        list-style: none;
+  
+    }
+    
+    email{
+      font-size: 20px;
+    }
+    
+    .links li a{
+    
+        color: white;
+        text-decoration: none;
+        letter-spacing: 2px;
+        font-weight: bold;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+    
+        
+        
+    }
+    
+    
+    .text-block{
+        text-align: center;
+        color: white;
+        font-size: 20px;
+    }
+.contact h3{
+    margin-top: 8%;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+
+}
+
+.contact-head{
+    background-color: #00628B;
+    text-align: center;
+    width: 100%;
+    border-radius:30px ;
+    -webkit-border-radius:30px ;
+    -moz-border-radius:30px ;
+    -ms-border-radius:30px ;
+    -o-border-radius:30px ;
+}
+
+
+.contact-head h3{
+    margin-top: 8%;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.contact-head h4{
+    margin-top: 4%;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+   
+    
+}
+
+.contact-head i{
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contact-head p{
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contact-head span{
+    color: red;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
